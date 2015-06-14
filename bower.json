@@ -1,0 +1,14 @@
+{
+    "name": "topics-collector",
+    "dependencies": {
+        "jquery": "2.*"
+    },
+    "overrides": {
+        "jquery": {
+            "main": {
+                "development": "dist/jquery.js",
+                "production": "dist/jquery.min.js"
+            }
+        }
+    }
+} 

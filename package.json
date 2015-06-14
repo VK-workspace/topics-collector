@@ -1,0 +1,25 @@
+{
+  "name": "topics-collector",
+  "version": "0.1.0",
+  "description": "The VK-topics controller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VK-workspace/topics-collector"
+  },
+  "keywords": [
+    "topic",
+    "collector",
+    "controller",
+    "VK"
+  ],
+  "author": "xx",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/VK-workspace/topics-collector/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-filter": "^2.0.2",
+    "main-bower-files": "^2.8.0"
+  }
+}
